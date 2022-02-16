@@ -19,11 +19,11 @@ At the end of this course you will be building a full stack application and depl
 ## Instructional Team
 
 Your instructional team is:
-    - Yahia Albachar (Course Lead instructor): y.albachar@ltuc.com
-    - TBD
-    - TBD
-    - TBD
-    - TBD
+- Yahia Albachar (Course Lead instructor): y.albachar@ltuc.com
+- TBD
+- TBD
+- TBD
+- TBD
   
 ## Course logisitcs
 

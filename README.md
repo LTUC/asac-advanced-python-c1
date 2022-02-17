@@ -20,19 +20,20 @@ At the end of this course you will be building and deploying a full stack applic
 
 Your instructional team is:
 - Yahia Albachar (Course Lead instructor): y.albachar@ltuc.com
-- TBD
-- TBD
-- TBD
-- TBD
+- Saja Ismail
+- Ashjan Albarqi
+- Tahani Mohammad Ali
+- Ashraf Obiedat
+- Mohammad Al-Hanbali
   
 ## Course logistics
 
 - 20 Feb 2022 - 7 July 2022
 - Course Zoom [link](https://LTUC.zoom.us/j/2730927465?pwd=L2JqSW5Wa0NTMEUvSjEyY0R3TWtTQT09)
 - Lecture days and time: Sunday, Tuesday and Thursday from 9:30AM to 1:00PM
-- Lab days and time: Monday and Wednsday from 10:00AM to 2:00PM 
-- Discord channel (TBA)
-- Slack channel (TBA)
+- Lab days and time: Monday and Wednsday from 10:00AM to 2:00PM
+- Discord channel: asac-advanced-python-c01
+- Slack channel: #asac-advanced-python-c01
 - Github course [repo](https://github.com/LTUC/asac-advanced-python-c1)
 - Attendance : You are required to attend 90% minimum in order to continue on this course, if you are unable to reach 90% you will be disqualified from the course and unfortunately you will be removed from the programme.
 

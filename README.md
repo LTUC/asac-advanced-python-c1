@@ -1,20 +1,20 @@
 # Welcome to ASAC Advanced Python course C1
 
-Welcome to ASAC Advanced Python course C1. You're now ready to dive into the advanced topics in software development. In this course you will learn how to:
+You are now ready to dive into the advanced software development topics. In this course you will learn how to:
 
-- Develop software and build Webapps using Python programming language and it's web frameworks.
-- Advanced Frontend development using React.
-- Cross mobile platform using React Native.
-- Deploying your Webapp
-- Software testing and Test Driven Development TDD.
-- Writing clean and extensible code with some design patterns and SOLID design principles.
-- Advanced topics in Python.
-- Docker and containerization.
-- Data structures and Algorithms and problem solving.
+- Develop software and build Web Applications using Python programming language and it's web frameworks.
+- Build Advanced Frontend using React.
+- Implement cross platform mobile applications using React Native.
+- Deploy Web Applications to the cloud
+- Design and implement automated software tests and follow Test Driven Development (TDD).
+- Write clean and extensible code with some design patterns and SOLID design principles.
+- Understand Advanced topics in Python.
+- Containerize applications using Docker.
+- Solve problems using common Data structures and Algorithms.
 
-This level requires commitment and putting high amount of work and effort into this course.
-If you ever get stuck in solving a problem for more than 20 min seek help. Also it is a common practice to share your solution for a specific problem but you should not give it in detail. It is also okay to use code from other resources but you have to acknowledge that. READING, READING, READING is key to success. Documentation is essintial and something you have to practice in order to be able to communicate your solutions and ideas within a team.
-At the end of this course you will be building a full stack application and deploy it to present it infront of audience to show your skills that you gained throug the course. Speaking of audience; on the middle half of this course you will be doing with a group presentations for a specific topic on Thursdays. topics are specified by the instructional team. Have fun!!
+This level requires commitment, hard work and consistent effort to be successful.
+If you ever get stuck on a problem for more than 20 minutes seek help from your TAs. Working with your classmates on an approach for a solution is allowed;however,submitting the same code is not. To avoid being removed from the course for plagiarism, always give credit by listing your sources and/or the colleagues you worked with while creating your solution. READING, READING, READING is key to success. Searching and understanding documentation is essential to maintaining your skills as a developer. You will find that the more you read and become familiar with the correct terms in the industry the easier it will be to communicate your thoughts and solutions to your team.
+At the end of this course you will be building and deploying a full stack application and presenting it to an audience to show the skills that you gained throughout the course. Speaking of presentations; from the midpoint of this course you will be given the opportunity to practice group presentations for a specific topic on Thursdays. Topics are specified by the instructional team. Have fun!!
 
 ## Instructional Team
 
@@ -25,7 +25,7 @@ Your instructional team is:
 - TBD
 - TBD
   
-## Course logisitcs
+## Course logistics
 
 - 20 Feb 2022 - 7 July 2022
 - Course Zoom [link](https://LTUC.zoom.us/j/2730927465?pwd=L2JqSW5Wa0NTMEUvSjEyY0R3TWtTQT09)
@@ -34,10 +34,10 @@ Your instructional team is:
 - Discord channel (TBA)
 - Slack channel (TBA)
 - Github course [repo](https://github.com/LTUC/asac-advanced-python-c1)
-- Attendance : you have to attend 90% minimum in order to continue on this course, if you reach less than 90% you will be disqualified from the cours and unfortunailty you will leave us.
+- Attendance : You are required to attend 90% minimum in order to continue on this course, if you are unable to reach 90% you will be disqualified from the course and unfortunately you will be removed from the programme.
 
-- Grading: grading brakedown goes as the following:
+- Grading: Grading breakdown goes as follows:
   - 70% Labs
   - 30% Reads
-  - 10% Code challenges
+  - 10% Code Challenges
 

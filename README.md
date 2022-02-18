@@ -39,6 +39,6 @@ Your instructional team is:
 
 - Grading: Grading breakdown goes as follows:
   - 70% Labs
-  - 30% Reads
+  - 20% Reads
   - 10% Code Challenges
 

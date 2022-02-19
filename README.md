@@ -42,3 +42,92 @@ Your instructional team is:
   - 30% Reads
   - 10% Code Challenges
 
+
+## Course Outline
+
+### Week 1
+- Python Basics
+- Packages and Modules, Virtual Environments
+- Worst Case Analysis, Sort Functions
+
+### Week 2
+- String formatting and I/O, Files, Error , Exceptions	
+- OOP, Dunder methods	
+- Search
+
+### Week 3
+- SOLID Principles	
+- Design Patterns I	
+- Stacks and Queues
+
+### Week 4
+- Design Patterns II	
+- Closures, Helper Functions, Decorators	
+- Linked Lists
+
+### Week 5
+- Pure Functions, Lambdas, Side Effects	
+- Unit Testing I	
+- Trees
+
+### Week 6
+- Unit Testing II	
+- TDD and Refactoring	
+- Graphs
+
+### Week 7
+- Sockets	
+- Multi Processing vs Multithreading	
+- Open Topic
+
+### Week 8
+- Coroutines, Task,Futures [Awaitables]	
+- Project Prep: OSS PyPI	
+
+### Week 9
+- Data Modelling and SQL	
+- Working with DB Server in Python	
+- SELECTIVE TOPICS (Group presentations)
+
+### Week 10
+- HTTP Request and Webscraping	
+- FastAPI or deploy python scripts using Flask	
+- SELECTIVE TOPICS (Group presentations)
+
+### Week 11
+- REST API I Flask	
+- REST API II Flask	
+- SELECTIVE TOPICS (Group presentations)
+
+### Week 12
+- React Native	
+- React Native	
+- SELECTIVE TOPICS (Group presentations)
+
+### Week 13
+- React Native	
+- Django intro/Basics/MVT/static files	
+- SELECTIVE TOPICS (Group presentations)
+
+### Week 14
+- Django: Views and overriding methods	
+- Django: Class and Function based views and admin	
+- SELECTIVE TOPICS (Group presentations)
+
+### Week 15
+- Django: ORM, Forms and postgres	
+- Django: Review + Heroku	Deployment
+- SELECTIVE TOPICS (Group presentations)
+### Week 16
+- Docker: Pulling and Building Images	
+- Docker: Docker Compose	
+- N/A(optional)
+### Week 17
+- Project
+### Week 18
+- Project
+### Week 19
+- Project
+### Week 20
+- Project	
+- PRESENTATION
